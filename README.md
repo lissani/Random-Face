@@ -1,5 +1,5 @@
 # Random-Face Generator
-랜덤 얼굴 생성 프로그램
+랜덤 얼굴 생성 게임
 <br><br>
 컴퓨터프로그래밍2 [CSE2035] 팀 프로젝트
 <br><br>
